@@ -1,0 +1,13 @@
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\bin\Debug\netcoreapp3.1\UD6M3.exe
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\bin\Debug\netcoreapp3.1\UD6M3.deps.json
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\bin\Debug\netcoreapp3.1\UD6M3.runtimeconfig.json
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\bin\Debug\netcoreapp3.1\UD6M3.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\bin\Debug\netcoreapp3.1\UD6M3.dll
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\bin\Debug\netcoreapp3.1\UD6M3.pdb
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.csprojAssemblyReference.cache
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.dll
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.pdb
+C:\Users\Arnau\source\repos\UD6M3\UD6M3\obj\Debug\netcoreapp3.1\UD6M3.genruntimeconfig.cache
